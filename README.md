@@ -1,3 +1,8 @@
+# Tech Week Website
+Website created by a group of students from the computer science department to guide the students around the annual event about technology that College Lasalle hosts.
+http://intlasalle.com/
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
